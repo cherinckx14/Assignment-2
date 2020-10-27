@@ -8,20 +8,16 @@
 <style>
 header {
   display: flex;
+  color: white;
   background-color: black;
   margin-bottom: 10px;
+  font-size: 300%;
+  background-color: black;
+  margin-bottom: 10px;
+  font-family: Roboto Slab;
+  font-weight: normal;
+  text-decoration: none;
   }
-header a {
-    color: white;
-    display: flex;
-    display: inline-block;
-    font-size: 300%;
-    background-color: black;
-    margin-bottom: 10px;
-    font-family: Roboto Slab;
-    font-weight: normal;
-    text-decoration: none;
-}
 .filter-container {
     float: left;
     background-color: #efefef;
