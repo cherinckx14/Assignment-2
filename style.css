@@ -6,9 +6,8 @@
  * email: herincch@oregonstate.edu
  */
 <style>
-.header-image-container {
+header {
   display: flex;
-  display: inline-block;
   background-color: black;
   margin-bottom: 10px;
   }
