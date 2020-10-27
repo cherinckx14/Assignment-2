@@ -8,6 +8,7 @@
 <style>
 header {
   display: flex;
+  display: inline-block;
   background-color: black;
   margin-bottom: 10px;
   }
